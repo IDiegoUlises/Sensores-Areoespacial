@@ -10,4 +10,6 @@ Sensor Infrarrojo: Funciona midiendo la radicion electromagnetica infrarroja en 
 
 Sensor Balanza: Este sensor funciona con una **Celda de carga** que incorpora una resistencia electrica para formar un **circuito wheatstone** que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funcionara en el planeta **Marte** porque la gravedad es mucho mayor es decir una manzana en este planeta es muy liviana pero en el caso que sea trasladado para el planeta **marte** tendra el peso de una pesa ademas dificulta realizar la deformacion de la celda para calcular la gravedad de un objeto.
 
-Sensor de 
+Bluetooth: en el planeta **Urano** del sistema solar el **bluetooth** no funciona porque en este planeta el **espectro electromagnetico** de su distribuccion energetica es nula por su baja temperatura es decir que las **ondas de radio** no pueden propagarse entonces no solo el bluetooth no funciona sino tampoco puede funcionar el **Wifi** ni tampoco ninguna comunicacion que se utilize alguna onda de radio. 
+
+Sensor de Luz: Un sensor de luz que este ubicado en el planeta **mercurio** no funcionan ya que se encuentra muy cerca de un cuerpo luminoso en el cual el sensor estara constantemente recibiendo luz solar desde un **angulo** aunque se puede utilizar tapar el angulo en el cual se esta recibiendo la luz con un objeto que bloquea la luz solar y resolver esto problema.
