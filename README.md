@@ -1,4 +1,4 @@
-# Sensores interplanetario
+# Sensores interplanetario, CONSTRUCCION MI NAVE INTELESTELAR CON UN ARDUINO
 
 **Introduccion:** Mucho de los sensores que existen solo funciona en el planeta tierra, en el caso que se intente utilizar el sensor en el espacio no funcionara por las condicciones fisicas, tambien un sensor en el caso que se utilize en otro planeta no funcionara porque las leyes de la fisica en el cual seran diferentes.
 
