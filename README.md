@@ -84,9 +84,9 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Comunicacion por Sonido
 
 
-**Comunicacion por ESpectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas.
+**Comunicacion por Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas.
 
-**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una onda que esta es propragada por uso de un cuerpo.
+**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se prograga atraves de un medio elastico como **solido,liquido y gaseoso** ejemplo en agua y aire.
 
 
 
