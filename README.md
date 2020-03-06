@@ -20,13 +20,15 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Espectro Electromagnetico:** simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
 
-**TIpos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
+**Tipos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
 
-**Onda En el Espectro Electromagnetico:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia  de la onda del foton es la **informacion** enviada y la energia que contiene la onda es el tipo del espectro electromagnetico.
+**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia de la onda del foton es la **informacion** que contiene y la energia que contiene la onda es el tipo de onda del espectro electromagnetico.
 
-**Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
+**Que Son las Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple una onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
 
 **Cuerpos Negros:** Es un objeto que abosrbe energia ya que este objeto abosrbe casi todos los tipos de energia se utiliza ondas infrarroja para poder detectar este cuerpo basadas en su temperatura.
+
+**Viento solar:** Es una corriente de partículas cargadas liberadas desde la atmósfera superior del Sol, llamada corona solar. Este plasma consiste principalmente en electrones, protones y partículas alfa con energías térmicas entre 1,5 y 10 keV, este puede dañar los componentes y dificultar las mediciones. I
 
 **Construccion de mi nave intelestelar y el robot de exploracion**
 
@@ -52,7 +54,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 * Motor para desplazarce
 * Perforador de rocas
-* Laser quemador
+* Laser
 
 
 **Energia**
@@ -84,9 +86,17 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Comunicacion por Sonido
 
 
-**Comunicacion por Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas.
+**Comunicacion por Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
 **Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se prograga atraves de un medio elastico como **solido,liquido y gaseoso** ejemplo en agua y aire.
+
+# Propulsion Espacial
+
+**Motor Ionico:** Utiliza haz de de iones con carga electrica para la propulsion utilizando un campo electrico esta propulsion es muy eficiente comparado con los motores de cochetes convencionales y este no necesita ningun combustible.
+
+**Motor Cohete:** Es un motor de reacion que genera empuje mediante la expulsion de combustible estos son primitivos y son los que se utiliza en el planeta tiera.
+
+
 
 
 
