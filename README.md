@@ -22,7 +22,7 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **TIpos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
 
-**Onda En el Espectro Electromagnetico:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia que se propaga el foton es la **informacion** enviada y la energia que contiene la onda es el tipo del espectro electromagnetico de la onda.
+**Onda En el Espectro Electromagnetico:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia  de la onda del foton es la **informacion** enviada y la energia que contiene la onda es el tipo del espectro electromagnetico.
 
 **Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
 
