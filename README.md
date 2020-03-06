@@ -14,11 +14,17 @@ Transistor: Todo esta construido por transistores pero un transistor llevado al 
 
 Sensor Infrarrojo: Funciona midiendo la radicion electromagnetica infrarroja en el caso que el sensor sea utilizado en el espacio funcionara  mal y no sirva para nada ya que los **rayos gamos** que son producidos por las **explosiones de estrellas** y por choques de **cuerpos celestes** no permitira que este sensor realize mediciones correctas. 
 
-Sensor Balanza: Este sensor funciona con una **Celda de carga** que incorpora una resistencia electrica para formar un **circuito wheatstone** que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funcionara en el planeta **Marte** porque la gravedad es mucho mayor es decir una manzana en este planeta es muy liviana pero en el caso que sea trasladado para el planeta **marte** tendra el peso de una pesa ademas dificulta realizar la deformacion de la celda para calcular la gravedad de un objeto.
+Sensor Balanza: Este sensor funciona con una **Celda de carga** que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funcionara en el planeta **Marte** porque la gravedad es mucho mayor es decir una manzana en este planeta es muy liviana pero en el caso que sea trasladado para el planeta **marte** tendra el peso de una pesa ademas dificulta realizar la deformacion de la celda para calcular la gravedad de un objeto.
 
-Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funciona porque en este planeta el **espectro electromagnetico** de su distribuccion energetica es nula por su baja temperatura es decir que las **ondas de radio** no pueden propagarse entonces no solo el bluetooth no funciona sino tampoco puede funcionar el **Wifi** ni tampoco ninguna comunicacion que se utilize alguna onda de radio. 
+Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funciona porque en este planeta el **espectro electromagnetico** de su distribuccion energetica es baja por su baja temperatura es decir que las **ondas de radio** no pueden propagarse entonces no solo el bluetooth no funciona sino tampoco puede funcionar el **Wifi** ni tampoco ninguna comunicacion que se utilize alguna onda de radio. 
 
-Sensor de Luz: Un sensor de luz que este ubicado cerca de un **Sol** no funcionan ya que se encuentra muy cerca de un cuerpo luminoso en el cual los fotones de luz no podran ser enviando porque la bloquea la luz del sol.
+**Espectro Electromagnetico:** simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
+
+**TIpos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
+
+**Onda En el Espectro Electromagnetico:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la energia que transportara el foton es la **onda** enviada.
+
+**Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
 
 **Construccion de mi nave intelestelar y el robot de exploracion**
 
