@@ -1,8 +1,14 @@
-# Sensores interplanetario, CONSTRUCCION MI NAVE INTELESTELAR CON UN ARDUINO y robot de exploracion concepto
+# Sensores Areoespaciales, espacial y interplanetario (really and concept)
 
-**Introduccion:** Mucho de los sensores que existen solo funciona en el planeta tierra, en el caso que se intente utilizar el sensor en el espacio no funcionara por las condicciones fisicas, tambien un sensor en el caso que se utilize en otro planeta no funcionara porque las leyes de la fisica en el cual seran diferentes.
+**Introduccion:** Mucho de los sensores que existen solo funciona en el planeta tierra, en el caso que se intente utilizar esta tecnologia en el espacio no funcionara por las condicciones fisicas, tambien un sensor en el caso que se utilize en otro planeta no funcionara porque las leyes de la fisica en el cual seran diferentes.
 
-Sensor Ultrasonico: Este sensor no funciona en el espacio porque utiliza ondas de sonido para calcular la distancia de un objeto como en el caso del espacio que no existe el sonido este sensor no podra funcionar porque en el espacio no se puede enviar una onda de sonido.
+**Estanderes de seguridad:** Arduino no cumple con los requisitos minimos de seguridad para su uso de areoespacial donde los cambios de temperatura son altos y bajos, los microcontroladores Pic versiones militar cumple con los estanderes areoespacial establecidos es decir para soportar la intensas cambios de temperatura areoespeciales.
+
+**Estandar de componentes:** Todos los componentes que se utilizaran como transistores, condensadores y resistencias tendra que utilizar la version militar o areoespacial para aguantar las condiciones extremas del espacio.
+
+## inconvenientes 
+
+**Sensor Ultrasonico:** Este sensor no funciona en el espacio porque utiliza ondas de sonido para calcular la distancia de un objeto como en el caso del espacio que no existe el sonido este sensor no podra funcionar porque en el espacio no se puede enviar una onda de sonido.
 
 Transistor: Todo esta construido por transistores pero un transistor llevado al planeta **Neptuno** no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida pero la temperara de Neptuno puede alcanzar °350 grados de frio por el cual el proceso de enviar los electrones se congelaran y no se podra circular corriente.
 
@@ -12,13 +18,13 @@ Sensor Balanza: Este sensor funciona con una **Celda de carga** que incorpora un
 
 Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funciona porque en este planeta el **espectro electromagnetico** de su distribuccion energetica es nula por su baja temperatura es decir que las **ondas de radio** no pueden propagarse entonces no solo el bluetooth no funciona sino tampoco puede funcionar el **Wifi** ni tampoco ninguna comunicacion que se utilize alguna onda de radio. 
 
-Sensor de Luz: Un sensor de luz que este ubicado cerca del **Sol** no funcionan ya que se encuentra muy cerca de un cuerpo luminoso en el cual el sensor estara constantemente recibiendo luz solar desde un **angulo**.
+Sensor de Luz: Un sensor de luz que este ubicado cerca de un **Sol** no funcionan ya que se encuentra muy cerca de un cuerpo luminoso en el cual los fotones de luz no podran ser enviando porque la bloquea la luz del sol.
 
-**Construccion de mi nave intelestelar y el robot de exploracion
+**Construccion de mi nave intelestelar y el robot de exploracion**
 
 Construccion de mi robot que explorara un planeta como el robot Curiosity de la nasa
 
-**incorporara estos Sensores..**
+**Sensores**
 
 * Sensor de humedad
 * Sensor de temperatura
@@ -48,24 +54,25 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Energia Nuclear
 
 
-**Sistema de infriamiento:** El principal problema es que los circuitos no pueden funcionar por la radicion que degradan los materiales y por la temperatura.
-
 **Aislador:** Son materiales construido que no absorban la temperatura del ambiento para que los circuitos esten protegidos de la radicion y temperatura.
 
 **Enfriamiento con ventiladores:** Tendra un circuito que cuando los **asiladores de temperatura** se vean sobrepasados se utilizara ventiladores para mantener la temperatura del robot.
 
 **Calentamiento con resistencia de nicrom:** En caso que la tempera esta muy baja se utiliaran resistencia de nicrom para aumentar la temperatura del robot de exploracion.
 
-## Sistema de comunicacion
+**Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
-Las ondas de radio no se pueden prograrse en algunos planetas y en otros no se pueden enviar señales de luz.
+## Sistema de comunicacion
 
 * Ondas de radio
 * Comunicacion por luz 
 * Comunicacion por sonido
 
-Esto son todas las formas de comunicacion que existen...
+**Ondas de radio:** Este tipo comunicacion utiliza el espectro electromagnetico del planeta para propragrase es decir funciona en donde los planetas tengan altas temperaturas y en los planetas que son de baja temperatura nose puede enviar ondas de radio.
 
+**Comunicacion por luz:** Esta comunicacion puede ser cualquier tipo de luz en este caso utilizaremos luz laser esto para los planetas que son oscuros y que tengan bajas temperaturas.
+
+**Comunicacion por sonido:** Esta comunicacion no es comun se basa en enviar ondas de sonido para enviar señales de comunicacion puede utilizarse para planetas que son muy peligrosos en el cual no se puedan enviar ondas de radio y ondas de luz.
 
 
 
