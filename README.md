@@ -80,15 +80,13 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 ## Sistema de comunicacion
 
-* Ondas de radio
-* Comunicacion por luz 
-* Comunicacion por sonido
+* Comunicacion por Espectro Elecromagnetico
+* Comunicacion por Sonido
 
-**Ondas de radio:** Este tipo comunicacion utiliza el espectro electromagnetico del planeta para propragrase es decir funciona en donde los planetas tengan altas temperaturas y en los planetas que son de baja temperatura nose puede enviar ondas de radio.
 
-**Comunicacion por luz:** Esta comunicacion puede ser cualquier tipo de luz en este caso utilizaremos luz laser esto para los planetas que son oscuros y que tengan bajas temperaturas.
+**Comunicacion por ESpectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas.
 
-**Comunicacion por sonido:** Esta comunicacion no es comun se basa en enviar ondas de sonido para enviar señales de comunicacion puede utilizarse para planetas que son muy peligrosos en el cual no se puedan enviar ondas de radio y ondas de luz.
+**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una onda que esta es propragada por uso de un cuerpo.
 
 
 
