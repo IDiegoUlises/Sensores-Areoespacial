@@ -54,11 +54,19 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Energia Nuclear
 
 
-**Aislador:** Son materiales construido que no absorban la temperatura del ambiento para que los circuitos esten protegidos de la radicion y temperatura.
+**Aislador Termico:** Son materiales construido que no absorban la temperatura del ambiento para que los circuitos esten protegidos de la radicion y temperatura.
 
-**Enfriamiento con ventiladores:** Tendra un circuito que cuando los **asiladores de temperatura** se vean sobrepasados se utilizara ventiladores para mantener la temperatura del robot.
+**Ventiladores:** Tendra un circuito que cuando los **asiladores de temperatura** se vean sobrepasados se utilizara ventiladores para mantener la temperatura del robot.
+
+**Sistema de refrigeracion:** Se utilizan fluidos liquidos para disminuir la temperatura el fluido aborbera la temparatura basada en las leyes de la termodinamica.
 
 **Calentamiento con resistencia de nicrom:** En caso que la tempera esta muy baja se utiliaran resistencia de nicrom para aumentar la temperatura del robot de exploracion.
+
+**Sistema de calefaccion:** Utiliza una bomba de calor que es una maquina termica que traslada la temperatura que se encuentra en el exterior para trasladarla al interior.
+
+**Disipador de calor:** Un circuito se le agrega un disipador para que el disipador aborba la temperatura para que el aire pueda disipar ese calor basado la ley cero de la termodinamica.
+
+**Pasta termica:** Nose como se usa pero es un conductor de calor y no es eterno sino que dura algunos meses o años.
 
 **Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
