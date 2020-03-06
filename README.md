@@ -26,6 +26,8 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
 
+**Cuerpos Negros:** Es un objeto que abosrbe energia ya que este objeto abosrbe casi todos los tipos de energia se utiliza ondas infrarroja para poder detectar este cuerpo basadas en su temperatura.
+
 **Construccion de mi nave intelestelar y el robot de exploracion**
 
 Construccion de mi robot que explorara un planeta como el robot Curiosity de la nasa
