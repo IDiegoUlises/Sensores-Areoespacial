@@ -8,7 +8,9 @@
 
 **Leyes Internacionales exploracion espacial:** Existen leyes internacionales en el cual una de la mas importante es no contaminar otros planetas con bacterias terrestre es decir que cada objeto llevado a la orbita debe estar desifenctado para no dañar otro ecosistema.
 
-**Ley de regreso de objetos al planeta tierra:** Todo objeto que regresa a la tierra debe estar desifectado en el cual si se trae minarales de otro planeta debe pasar estrictas medidas de reguluacion por la organizacion mundial para si un **virus** o una **bacteria** extraterrestre no se proprage en el planeta terrestre.
+**Ley de regreso de objetos al planeta tierra:** Todo objeto que regresa a la tierra debe estar desifectado en el cual si se trae minarales de otro planeta debe pasar estrictas medidas de reguluacion por la organizacion mundial para si un **virus** o una **microrganismo** extraterrestre no se proprage en el planeta terrestre.
+
+**Ley de Desinfección de persona:** Esta ley de dice que cada ser vivo una hormiga un perro hasta un humano debe aplicar una Desinfección completa para al salir de la orbita de la y cuando regrese al planeta debe volver a realizar una Desinfección intensa.
 
 ## inconvenientes 
 
