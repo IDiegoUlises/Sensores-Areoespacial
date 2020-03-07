@@ -6,6 +6,10 @@
 
 **Estandar de componentes:** Todos los componentes que se utilizaran como transistores, condensadores y resistencias tendra que utilizar la version militar o areoespacial para aguantar las condiciones extremas del espacio.
 
+**Leyes Internacionales exploracion espacial:** Existen leyes internacionales en el cual una de la mas importante es no contaminar otros planetas con bacterias terrestre es decir que cada objeto llevado a la orbita debe estar desifenctado para no dañar otro ecosistema.
+
+**Ley de regreso de objetos al planeta tierra:** Todo objeto que regresa a la tierra debe estar desifectado en el cual si se trae minarales de otro planeta debe pasar estrictas medidas de reguluacion por la organizacion mundial para si un **virus** o una **bacteria** extraterrestre no se proprage en el planeta terrestre.
+
 ## inconvenientes 
 
 **Sensor Ultrasonico:** Este sensor no funciona en el espacio porque utiliza ondas de sonido para calcular la distancia de un objeto como en el caso del espacio que no existe el sonido este sensor no podra funcionar porque en el espacio no se puede enviar una onda de sonido.
