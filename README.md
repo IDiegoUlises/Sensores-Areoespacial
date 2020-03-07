@@ -100,6 +100,16 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 **Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrupmir lo que esta realizando, estoy debe estar implementando como medida de seguridad al detectar fallos o errores. 
 
 
+# Obtener Energia
 
+**Obtener Energia:** Nuestro robot funciona con electricidad con energia nuclear y tendra que obtener energia para que pueda funcionar en el caso que se acaba la energia.
+
+**Energia Solar:** Suena muy bien pero en algunos planetas como en **marte** las tormentan que tiene en la atmosfera no permite que la luz solar llegue a la superficie obteniendo energia menor a la que se podria obtener desde la atmosfera.
+
+**Energia Heolica:** Para planetas que tiene vientos muy fuertes se puede obtener mucha energia heolica mediante una turbina que se encuentra en el robot.
+
+**Energia Termica:** Obtiene energia mediante la temperatura alta que se encuentra el ambiente para tranformarla en energia electrica.
+
+**Efecto Peltier:** Para planetas que tengan bajas temperaturas se utiliza una celda peltier para cuando se produce una diferencia de temperatura en la celda es decir un lado esta frio y el otro caliente el robot puede utilizar el frio del planeta para crear diferencia de temperatura y asi poder generar electricidad en un planeta que este congelado.  
 
 
