@@ -10,7 +10,7 @@
 
 **Ley de regreso de objetos al planeta tierra:** Todo objeto que regresa a la tierra debe estar desifectado en el cual si se trae minarales de otro planeta debe pasar estrictas medidas de reguluacion por la organizacion mundial para si un **virus** o una **microrganismo** extraterrestre no se proprage en el planeta terrestre.
 
-**Ley de Desinfección de persona:** Esta ley de dice que cada ser vivo una hormiga un perro hasta un humano debe aplicar una Desinfección completa para al salir de la orbita de la y cuando regrese al planeta debe volver a realizar una Desinfección intensa.
+**Ley de Desinfección de persona:** Esta ley de dice que un humano debe aplicar una Desinfección completa para al salir de la orbita de la tierra y cuando regrese al planeta debe volver a realizar una desinfección intensa.
 
 ## inconvenientes 
 
