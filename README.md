@@ -47,7 +47,6 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Sensor Termico a Distancia
 * Sensor de oxigeno
 * Sensor de liquido
-* Sensor de radioactividad
 * Sensor de velocidad del viento
 
 **Actuadores**
