@@ -82,11 +82,11 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 ## Sistema de comunicacion
 
-* Comunicacion por Espectro Elecromagnetico
+* Comunicacion Dentro del Espectro Elecromagnetico
 * Comunicacion por Sonido
 
 
-**Comunicacion por Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
+**Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
 **Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se prograga atraves de un medio elastico como **solido,liquido y gaseoso** ejemplo en agua y aire.
 
