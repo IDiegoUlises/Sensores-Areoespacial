@@ -76,7 +76,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Disipador de calor:** Un circuito se le agrega un disipador para que el disipador aborba la temperatura para que el aire pueda disipar ese calor basado la ley cero de la termodinamica.
 
-**Pasta termica:** Nose como se usa pero es un conductor de calor y no es eterno sino que dura algunos meses o años.
+**Pasta termica:** Nose como se usa pero es un pasta termica conductora de calor que transifera el calor de un lugar para que sea dispada por el aire y no es eterno sino que dura algunos meses o años.
 
 **Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
