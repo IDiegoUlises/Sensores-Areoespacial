@@ -116,6 +116,10 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Energia Termica:** Obtiene energia mediante la temperatura alta que se encuentra el ambiente para tranformarla en energia electrica.
 
-**Efecto Peltier:** Para planetas que tengan bajas temperaturas se utiliza una celda peltier para cuando se produce una diferencia de temperatura en la celda es decir un lado esta frio y el otro caliente el robot puede utilizar el frio del planeta para crear diferencia de temperatura y asi poder generar electricidad en un planeta que este congelado.  
+**Efecto Peltier:** Para planetas que tengan bajas temperaturas se utiliza una celda peltier para cuando se produce una diferencia de temperatura en la celda es decir un lado esta frio y el otro caliente el robot puede utilizar el frio del planeta para crear diferencia de temperatura y asi poder generar electricidad en un planeta que este congelado. 
 
+# Desinfección
 
+**Desinfeccion de objetos:** Se puede utilizar alchol y liquidos para descontaminar los objetos porque contienen microorganismos y una desconotaminacion completa y intensiva. 
+
+**Desifenccion de personas:** Deben pasar por una camara de gases desifectante para realizar una descontaminacion completa del cuerpo para eliminar microorganismos no deseados.
