@@ -96,6 +96,10 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Motor Cohete:** Es un motor de reacion que genera empuje mediante la expulsion de combustible estos son primitivos y son los que se utiliza en el planeta tiera.
 
+# Detencion de Seguridad
+
+**Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrupmir lo que esta realizando, estoy debe estar implementando como medida de seguridad al detectar fallos o errores. 
+
 
 
 
