@@ -123,3 +123,15 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 **Desinfeccion de objetos:** Se puede utilizar alchol y liquidos para descontaminar los objetos porque contienen microorganismos y una desconotaminacion completa y intensiva. 
 
 **Desifenccion de personas:** Deben pasar por una camara de gases desifectante para realizar una descontaminacion completa del cuerpo para eliminar microorganismos no deseados.
+
+# Corrosion de los materiales
+
+**Corrosion:** Es el deteorio de un material, este detoriodo de los materiales son generados por una reaccion **electroquimica** que son producida por un liquido, un gaseoso y cuando es  producida electricamente se le llama **oxidacion.**
+
+**Corrosion por oxigeno:** Cuando un material esta expuesto a cualquier tipo gas en este caso es el **oxigeno** se produce un deterioro del material dañandose por el tiempo que se expone.
+
+**Corrossion Microbiológica:** Algunos microorganismos son capaces de causar corrosión en los materiales haciendo que se deteroren los materiales, esto puede ocurrrir en un liquido como en agua o en el oceano o en la superficie.
+
+**Corrosión Química:** Trata que mterial que se disuelve con un líquido corrosivo que se disuelve hasta que se consuma totalmente o el elemento corrosivo se acabe.
+
+
