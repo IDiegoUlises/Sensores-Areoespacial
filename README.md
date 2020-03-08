@@ -32,6 +32,8 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Que Son las Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple una onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
 
+**Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
+
 **Cuerpos Negros:** Es un objeto que abosrbe energia ya que este objeto abosrbe casi todos los tipos de energia se utiliza ondas infrarroja para poder detectar este cuerpo basadas en su temperatura.
 
 **Viento solar:** Es una corriente de partículas cargadas liberadas desde la atmósfera superior del Sol, llamada corona solar. Este plasma consiste principalmente en electrones, protones y partículas alfa con energías térmicas entre 1,5 y 10 keV, este puede dañar los componentes y dificultar las mediciones. I
