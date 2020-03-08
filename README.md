@@ -132,6 +132,8 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Corrossion Microbiológica:** Algunos microorganismos son capaces de causar corrosión en los materiales haciendo que se deteroren los materiales, esto puede ocurrrir en un liquido como en agua o en el oceano o en la superficie.
 
-**Corrosión Química:** Trata que mterial que se disuelve con un líquido corrosivo que se disuelve hasta que se consuma totalmente o el elemento corrosivo se acabe.
+**Corrosión Química:** Trata que material que se disuelve con un líquido corrosivo que se disuelve hasta que se consuma o el elemento corrosivo se acabe.
+
+**Evitar la corrosion:** Al material al que queramos proteger ahi que agregar una capa de un material que evite que el material que queramos proteger haga contacto con una sustancia corrosiva, en un hogar se utiliza una pintura que se agrega a la pared esta pintura evita que el agua haga contacto con la pared para que la pared no se deteriore.   
 
 
