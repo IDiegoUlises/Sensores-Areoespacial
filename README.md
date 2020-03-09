@@ -140,4 +140,10 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Evitar la corrosion:** Al material al que queramos proteger ahi que agregar una capa de un material que evite que el material que queramos proteger haga contacto con una sustancia corrosiva, en un hogar se utiliza una pintura que se agrega a la pared esta pintura evita que el agua haga contacto con la pared para que la pared no se deteriore.   
 
+# Almacenamiento De Energia
+
+* Baterias
+* Condensadores
+
+
 
