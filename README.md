@@ -145,5 +145,9 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Baterias
 * Condensadores
 
+**Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan durante el tiempo por la realizacion de este proceso por eso su vida util es corta.
+
+**Condensador:** Este conductor **no almacena energia** este almacena su **campo electrico** para luego convertilo en **energia cinetica**  investigando... esto es muy complejo con tetorias de fisicas y teorias de los campos...
+
 
 
