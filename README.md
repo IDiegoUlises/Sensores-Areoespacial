@@ -128,6 +128,8 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Desifenccion de personas:** Deben pasar por una camara de gases desifectante para realizar una descontaminacion completa del cuerpo para eliminar microorganismos no deseados.
 
+**Esterilazacion Ultravioleta:** Es un proceso que destruye toda la vida microbiana utilizando **luz ultravioleta** que es un tipo de radiacion electromagnetica no ionizante esto puede esterilizar el aire, el agua y superfices, la luz ultravioleta provoca en animales y humanos mutaciones en el ADN.   
+
 # Corrosion de los materiales
 
 **Corrosion:** Es el deteorio de un material, este detoriodo de los materiales son generados por una reaccion **electroquimica** que son producida por un liquido, un gaseoso y cuando es  producida electricamente se le llama **oxidacion.**
