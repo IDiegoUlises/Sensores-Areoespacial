@@ -150,5 +150,8 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Condensador:** Este conductor **no almacena energia** este almacena su **campo electrico** para luego convertilo en **energia cinetica**  investigando... esto es muy complejo con tetorias de fisicas y teorias de los campos...
 
+# Almacenamiento De Datos
+
+**Unidad Disco Duro:** Utilizando estos discos seria la mejor opcion pero lamentablemente solo funcionan en el planeta tierra estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** es decir para el proceso de grabacion utilizan **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en otros planetas los campos magneticos externos pueden afectar en el proceso de escritura haciendo este disco duro no funcione.   
 
 
