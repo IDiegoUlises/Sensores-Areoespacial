@@ -8,9 +8,9 @@
 
 **Leyes Internacionales exploracion espacial:** Existen leyes internacionales en el cual una de la mas importante es no contaminar otros planetas con bacterias terrestre es decir que cada objeto llevado a la orbita debe estar desifenctado para no dañar otro ecosistema.
 
-**Ley de regreso de objetos al planeta tierra:** Todo objeto que regresa a la tierra debe estar desifectado en el cual si se trae minarales de otro planeta debe pasar estrictas medidas de reguluacion por la organizacion mundial para si un **virus** o una **microrganismo** extraterrestre no se proprage en el planeta terrestre.
+**Ley de regreso de objetos al planeta tierra:** Todo material extraterrestre recoletado debe pasar estrictas medidas de reguluacion por la organizacion mundial para evitar que un virus o un microrganismo extraterrestre no se proprage en el planeta terrestre.
 
-**Ley de Desinfección de persona:** Esta ley de dice que un humano debe aplicar una Desinfección completa para al salir de la orbita de la tierra y cuando regrese al planeta debe volver a realizar una desinfección intensa.
+**Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una Desinfección completa al salir de la orbita de la tierra y en el regreso debe vpñver a disefectarse.
 
 ## inconvenientes 
 
@@ -34,11 +34,10 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
 
-**Cuerpos Negros:** Es un objeto que abosrbe energia ya que este objeto abosrbe casi todos los tipos de energia se utiliza ondas infrarroja para poder detectar este cuerpo basadas en su temperatura.
+**Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
-**Viento solar:** Es una corriente de partículas cargadas liberadas desde la atmósfera superior del Sol, llamada corona solar. Este plasma consiste principalmente en electrones, protones y partículas alfa con energías térmicas entre 1,5 y 10 keV, este puede dañar los componentes y dificultar las mediciones. I
+**Viento solar:** Es una corriente de partículas cargadas liberadas desde la atmósfera superior del Sol, llamada corona solar. Este plasma consiste principalmente en electrones, protones y partículas alfa con energías térmicas entre 1,5 y 10 keV, este puede dañar los componentes y dificultar las mediciones. 
 
-**Construccion de mi nave intelestelar y el robot de exploracion**
 
 Construccion de mi robot que explorara un planeta como el robot Curiosity de la nasa
 
@@ -83,7 +82,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Disipador de calor:** Un circuito se le agrega un disipador para que el disipador aborba la temperatura para que el aire pueda disipar ese calor basado la ley cero de la termodinamica.
 
-**Pasta termica:** Nose como se usa pero es un pasta termica conductora de calor que transifera el calor de un lugar para que sea dispada por el aire y no es eterno sino que dura algunos meses o años.
+**Pasta termica:** Es un pasta termica conductora de calor que transifera el calor de un lugar para que sea dispada por el aire y no es eterna tiene una duracion de meses o años.
 
 **Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
@@ -147,7 +146,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Baterias
 * Condensadores
 
-**Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan durante el tiempo por la realizacion de este proceso por eso su vida util es corta.
+**Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan por la realizacion de este proceso por eso su vida util es corta.
 
 **Condensador:** Este conductor **no almacena energia** este almacena su **campo electrico** para luego convertilo en **energia cinetica**  investigando... esto es muy complejo con tetorias de fisicas y teorias de los campos...
 
