@@ -154,4 +154,10 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Unidad Disco Duro:** Utilizando estos discos seria la mejor opcion pero lamentablemente solo funcionan en el planeta tierra estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** es decir para el proceso de grabacion utilizan **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en otros planetas los campos magneticos externos pueden afectar en el proceso de escritura haciendo este disco duro no funcione.   
 
+**Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
+
+* **Celda de memoria Sram:** Es un tipo de memoria donde el condensador almacena bits que son datos en binarios ceros y unos, en la carga del condensador es donde se guardada toda la informacion.
+
+**Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
+
 
