@@ -34,7 +34,7 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
 
-**Dato extra:** E=T M=E la temperatura es igual a energia y masa es igual a energia. E=MC² energia es equivalente masa
+**Relatividad Especial** E=T M=E la temperatura es igual a energia y masa es igual a energia. E=MC² energia es equivalente masa
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
