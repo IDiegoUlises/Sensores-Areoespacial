@@ -12,7 +12,7 @@
 
 **Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una Desinfección completa al salir de la orbita de la tierra y en el regreso debe vpñver a disefectarse.
 
-## inconvenientes 
+# inconvenientes 
 
 **Sensor Ultrasonico:** Este sensor no funciona en el espacio porque utiliza ondas de sonido para calcular la distancia de un objeto como en el caso del espacio que no existe el sonido este sensor no podra funcionar porque en el espacio no se puede enviar una onda de sonido.
 
@@ -86,7 +86,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
-## Sistema de comunicacion
+# Sistema de comunicacion
 
 * Comunicacion Dentro del Espectro Elecromagnetico
 * Comunicacion por Sonido
