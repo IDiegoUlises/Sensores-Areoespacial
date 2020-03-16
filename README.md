@@ -150,7 +150,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan por la realizacion de este proceso por eso su vida util es corta.
 
-**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para luego convertilo en **energia cinetica.** Cuando almacena el campo electrico para crear la energia los electrones se desplazan esto produce una carga electrica y un campo magnetico esto crea electricidad por el movimiento de los electrones. 
+**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para luego convertilo en **energia cinetica.** Cuando almacena el campo electrico para producir la energia los electrones se desplazan esto produce una carga electrica y un campo magnetico produce electricidad por el movimiento de los electrones. 
 
 # Almacenamiento De Datos
 
