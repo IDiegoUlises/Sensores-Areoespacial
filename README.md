@@ -117,20 +117,20 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Energia Eolica:** Esta energia se obtiene cuando el viento desplaza un **areogenerador** la cual se produce **energia cinetica** que es convertida en **energia electrica.**    
 
-**Energia Termica:** Obtiene energia mediante el movimiento de atomos es decir la energia termica es producida por la energia cinetica esta puede aprovecharse por la **Conduccion,** **Convección y ** **Radiacion.**  
+**Energia Termica:** Obtiene la energia mediante el calor y el calor es producido por el movimiento de los atomos esta es equivalente a la **energia cinetica** y es aprovechada por la **Conduccion,** **Convección y** **Radiacion.**  
 
 
 # Desinfección
 
-**Desinfeccion de Objetos:** Se puede utilizar alchol y liquidos para descontaminar los objetos porque contienen microorganismos y una desconotaminacion completa y intensiva. 
+**Desinfeccion de Objetos:** Se utilizan liquidos para destruir los microrganismos que se encuentren en un objeto tambien se aplica bajar y subir la temperatura de manera extrema para la destruccion de los microrganismos.
 
-**Desifenccion de personas:** Deben pasar por una camara de gases desifectante para realizar una descontaminacion completa del cuerpo para eliminar microorganismos no deseados.
+**Desifenccion de personas:** Deben desifectarse mediantes sustancias quimicas que no son dañina para humanos y dañinas para los microrganismos para su eliminacion.
 
 **Esterilazacion Ultravioleta:** Es un proceso que destruye toda la vida microbiana utilizando **luz ultravioleta** que es un tipo de radiacion electromagnetica no ionizante esto puede esterilizar el aire, el agua y superfices, la luz ultravioleta provoca en animales y humanos mutaciones en el ADN.   
 
 # Corrosion de los materiales
 
-**Corrosion:** Es el deteorio de un material, este detoriodo de los materiales son generados por una reaccion **electroquimica** que son producida por un liquido, un gaseoso y cuando es  producida electricamente se le llama **oxidacion.**
+**Corrosion:** Es el deteorio de un material, este detoriodo de los materiales son generados por una reaccion electroquimica que son producida por un liquido, un gaseoso y cuando es  producida electricamente se le llama **oxidacion.**
 
 **Corrosion por oxigeno:** Cuando un material esta expuesto a cualquier tipo gas en este caso es el **oxigeno** se produce un deterioro del material dañandose por el tiempo que se expone.
 
@@ -138,7 +138,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Corrosión Química:** Trata que material que se disuelve con un líquido corrosivo que se disuelve hasta que se consuma o el elemento corrosivo se acabe.
 
-**Evitar la corrosion:** Al material al que queramos proteger ahi que agregar una capa de un material que evite que el material que queramos proteger haga contacto con una sustancia corrosiva, en un hogar se utiliza una pintura que se agrega a la pared esta pintura evita que el agua haga contacto con la pared para que la pared no se deteriore.   
+**Evitar la corrosion:** Un material para proteger se le debe agregar una capa de otro material para que evite que el material vunerable haga contacto con una sustancia corrosiva, una pared se le agrega una pintura la pintura es el material anticorrisivo.
 
 # Almacenamiento De Energia
 
@@ -147,15 +147,15 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan por la realizacion de este proceso por eso su vida util es corta.
 
-**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para luego convertilo en **energia cinetica.** Cuando almacena el campo electrico para producir la energia los electrones se desplazan esto produce una carga electrica y un campo magnetico produce electricidad por el movimiento de los electrones. 
+**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para luego convertilo en energia cinetica, cuando almacena el campo electrico para producir la energia los electrones se desplazan esto produce una carga electrica y un campo magnetico produce electricidad por el movimiento de los electrones. 
 
 # Almacenamiento De Datos
 
-**Unidad Disco Duro:** Utilizando estos discos seria la mejor opcion pero lamentablemente solo funcionan en el planeta tierra estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** es decir para el proceso de grabacion utilizan **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en otros planetas los campos magneticos externos pueden afectar en el proceso de escritura haciendo este disco duro no funcione.   
+**Unidad Disco Duro:** Utilizando esta unidad de almacenamiento es una opcion lamentablemente funcionan en condiciones terrestres estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** para el proceso de grabacion manejan **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en condiciones extraterrestres es afectado por campos magneticos externos. 
 
 **Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
 
-* **Celda de memoria Sram:** Es un tipo de memoria donde el condensador almacena bits que son datos en binarios ceros y unos, en la carga del condensador es donde se guardada toda la informacion.
+* **Celda de memoria Sram:** Es un tipo de memoria donde el condensador almacena datos en binarios, la carga del condensador es donde se guardada toda la informacion, esto con el fin que se desconecte de una fuente de alimentacion los datos queden guardados permanentemente, aunque la duracion de los datos permanente tiene una fecha de caducidad porque la corriente del condensador se acabara sino es realimentada durante un tiempo. 
 
 **Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
