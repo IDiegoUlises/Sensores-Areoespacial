@@ -14,17 +14,17 @@
 
 # inconvenientes 
 
-**Sensor Ultrasonico:** Este sensor no funciona en el espacio porque utiliza ondas de sonido para calcular la distancia de un objeto como en el caso del espacio que no existe el sonido este sensor no podra funcionar porque en el espacio no se puede enviar una onda de sonido.
+**Sensor Ultrasonico:** Este sensor utiliza ondas de sonido para medir la distancia de un objeto mediante el tiempo que se demora en llegar esta onda de sonido, en el espacio donde puede ser no puede ser utilizado este sensor porque una onda de sonido no puede desplazarse en el vacio.
 
-Transistor: Todo esta construido por transistores pero un transistor llevado al planeta **Neptuno** no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida pero la temperara de Neptuno puede alcanzar °350 grados de frio por el cual el proceso de enviar los electrones se congelaran y no se podra circular corriente.
+**Transistor:** Todos los circuitos estan formados por transistores un transistor llevado a un planeta de bajas temperatura como Neptuno no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida la temperara de Neptuno puede alcanzar bajas temperatura por el cual el proceso de desplazamiento de los electrones no se podran desplazar porque se congelaran. 
 
-Sensor Infrarrojo: Funciona midiendo la radicion electromagnetica infrarroja en el caso que el sensor sea utilizado en el espacio funcionara  mal y no sirva para nada ya que los **rayos gamos** que son producidos por las **explosiones de estrellas** y por choques de **cuerpos celestes** no permitira que este sensor realize mediciones correctas. 
+**Sensor Infrarrojo:** Mide la radicion electromagnetica infrarroja en el caso que sea utilizado en el espacio esta medicion puede verse afecta por factores externos como el **Viento Solar** o **Rayos Gamas** y **Explosiones Cercanas.**  
 
-Sensor Balanza: Este sensor funciona con una **Celda de carga** que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funcionara en el planeta **Marte** porque la gravedad es mucho mayor es decir una manzana en este planeta es muy liviana pero en el caso que sea trasladado para el planeta **marte** tendra el peso de una pesa ademas dificulta realizar la deformacion de la celda para calcular la gravedad de un objeto.
+**Balanza:** Funciona con una celda de carga que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no puede funcionar en el espacio porque no existe gravedad.
 
-Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funciona porque en este planeta el **espectro electromagnetico** de su distribuccion energetica es baja por su baja temperatura es decir que las **ondas de radio** no pueden propagarse entonces no solo el bluetooth no funciona sino tampoco puede funcionar el **Wifi** ni tampoco ninguna comunicacion que se utilize alguna onda de radio. 
+**Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como **Neptuno** esta temperatura no se podra desplazar porque congeleran. 
 
-**Espectro Electromagnetico:** simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
+**Espectro Electromagnetico:** Simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
 
 **Tipos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
 
@@ -34,7 +34,7 @@ Bluetooth: En el planeta **Urano** del sistema solar el **bluetooth** no funcion
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
 
-**Relatividad Especial** E=T M=E la temperatura es igual a energia y masa es igual a energia. E=MC² energia es equivalente masa
+**Relatividad Especial** Temperatura es lo mismo que energia y masa es lo mismo que a energia. E=MC²
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
@@ -48,15 +48,15 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Sensor de humedad
 * Sensor de temperatura
 * Sensor de luz 
-* Sensor Camara
-* Sensor De Proximidad Infrarrojo
-* Sensor Ultrasonico de distancia
+* Sensor camara
+* Sensor infrarrojo
+* Sensor ultrasonico
 * Sensor de sonido
-* Sensor de Gas
-* Sensor Termico a Distancia
+* Sensor de gas
+* Sensor termico
 * Sensor de oxigeno
 * Sensor de liquido
-* Sensor de velocidad del viento
+* Sensor velocidad del viento
 
 **Actuadores**
 
@@ -72,21 +72,21 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 * Energia Nuclear
 
 
-**Aislador Termico:** Son materiales construido que no absorban la temperatura del ambiento para que los circuitos esten protegidos de la radicion y temperatura.
+**Aislador Termico:** Son materiales construido que no absorban la temperatura del ambiente para que los circuitos esten protegidos de la radicion y temperatura.
 
-**Ventiladores:** Para cuando aumente la temperatura del robot o de los circuitos se pueda trasladar el calor en los materiales al aire para diminuir la temperatura rapidamente.  
+**Ventiladores:** Se utilizan ventiladores para trasladar la temperatura hacia otro lugar para que esto funcione debe haber un medio gaseseo para desplazarle como el aire.   
 
-**Sistema de refrigeracion:** Se utilizan fluidos liquidos para disminuir la temperatura el fluido aborbera la temparatura basada en las leyes de la termodinamica.
+**Sistema de Refrigeracion:** Se agregan fluidos liquido a un lugar esto puede con el fin de bajar la temperatura de punto haciendo que este fluido abosrba la temperatura.
 
-**Calentamiento con resistencia de nicrom:** En caso que la tempera esta muy baja se utiliaran resistencia de nicrom para aumentar la temperatura del robot de exploracion.
+**Calentamiento con Resistencia:** En caso que la tempera baja se utiliaran resistencia del material nicrom para aumentar la temperatura utilizando el **efecto joule.**
 
 **Sistema de calefaccion:** Utiliza una bomba que es una maquina termica que traslada la temperatura que se encuentra en el exterior para trasladarla al interior.
 
-**Disipador de calor:** Un circuito se le agrega un disipador para que el disipador aborba la temperatura para que el aire pueda disipar ese calor basado la ley cero de la termodinamica.
+**Disipador de calor:** Se agrega un disipador a un circuito electronico para el disipador absorba una cantidad de la temperatura que se produce en el circuito.
 
-**Pasta termica:** Es un pasta termica conductora de calor que transifera el calor de un lugar para que sea dispada por el aire y no es eterna tiene una duracion de meses o años.
+**Pasta termica:** Es una sustancia conductora de calor que transfiere el calor de un punto hacia otro punto utilizado para componentes semiconductores que tengan dificultades en disipar el calor.   
 
-**Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente por ejemplo el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
+**Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
 # Sistema de comunicacion
 
@@ -96,36 +96,33 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 
 **Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
-**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se prograga atraves de un medio elastico como **solido,liquido y gaseoso** ejemplo en agua y aire.
+**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio elastico como un **solido,liquido y gaseoso** como en agua y aire.
 
 # Propulsion Espacial
 
-**Motor Ionico:** Utiliza haz de de iones con carga electrica para la propulsion utilizando un campo electrico esta propulsion es muy eficiente comparado con los motores de cochetes convencionales y este no necesita ningun combustible.
+**Motor Ionico:** Utiliza haz de de iones con carga electrica para la propulsion utilizando un campo electrico esta propulsion es eficiente y este no necesita ningun tipo de combustible.
 
-**Motor Cohete:** Es un motor de reacion que genera empuje mediante la expulsion de combustible estos son primitivos y son los que se utiliza en el planeta tiera.
+**Motor Cohete:** Es un motor de reacion que genera un empuje mediante la expulsion de combustibles son infecientes porque la mayoria del combustible utilizado es para llevar el mismo combustible.
 
 # Medidas de Seguridad
 
-**Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrupmir lo que esta realizando, estoy debe estar implementando como medida de seguridad al detectar fallos o errores. 
+**Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrumpir lo que esta realizando, estoy con la intencion de atender una falla. 
 
-**Despegue Con combustible:** En la situcacion que se utilize el **Motor cohete** que utiliza combustibles para la propulsion este es peligroso y debe tener medidas de seguridad para el depegue ninguna persona debe estar cerca del lugar de despegue y todo la manipulacion debe ser controlada de manera remota. 
+**Lanzamiento Espacial:** En la situcacion que utilize el **Motor cohete** que utiliza combustibles para el lanzamiento al espacio debe respetar las **leyes internacionales** y **leyes nacionales** de su territorio ademas debe garantizar seguridad a todas las personas durante el lanzamiento.  
 
 
 # Obtener Energia
 
-**Obtener Energia:** Nuestro robot funciona con electricidad con energia nuclear y tendra que obtener energia para que pueda funcionar en el caso que se acaba la energia.
+**Energia Solar:** Obtiene la radicion emitida por una estrella esta es aprovechada con un **Colector solar** que aprovecha la temperatura producida por el sol para convertirla a energia electrica.    
 
-**Energia Solar:** Suena muy bien pero en algunos planetas como en **marte** las tormentan que tiene en la atmosfera no permite que la luz solar llegue a la superficie obteniendo energia menor a la que se podria obtener desde la atmosfera.
+**Energia Eolica:** Esta energia se obtiene cuando el viento desplaza un **areogenerador** la cual se produce **energia cinetica** que es convertida en **energia electrica.**    
 
-**Energia Heolica:** Para planetas que tiene vientos muy fuertes se puede obtener mucha energia heolica mediante una turbina que se encuentra en el robot.
+**Energia Termica:** Obtiene energia mediante el movimiento de atomos es decir la energia termica es producida por la energia cinetica esta puede aprovecharse por la **Conduccion,** **Convección y ** **Radiacion.**  
 
-**Energia Termica:** Obtiene energia mediante la temperatura alta que se encuentra el ambiente para tranformarla en energia electrica.
-
-**Efecto Peltier:** Para planetas que tengan bajas temperaturas se utiliza una celda peltier para cuando se produce una diferencia de temperatura en la celda es decir un lado esta frio y el otro caliente el robot puede utilizar el frio del planeta para crear diferencia de temperatura y asi poder generar electricidad en un planeta que este congelado. 
 
 # Desinfección
 
-**Desinfeccion de objetos:** Se puede utilizar alchol y liquidos para descontaminar los objetos porque contienen microorganismos y una desconotaminacion completa y intensiva. 
+**Desinfeccion de Objetos:** Se puede utilizar alchol y liquidos para descontaminar los objetos porque contienen microorganismos y una desconotaminacion completa y intensiva. 
 
 **Desifenccion de personas:** Deben pasar por una camara de gases desifectante para realizar una descontaminacion completa del cuerpo para eliminar microorganismos no deseados.
 
