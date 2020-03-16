@@ -10,7 +10,7 @@
 
 **Ley de regreso de objetos al planeta tierra:** Todo material extraterrestre recoletado debe pasar estrictas medidas de reguluacion por la organizacion mundial para evitar que un virus o un microrganismo extraterrestre no se proprage en el planeta terrestre.
 
-**Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una Desinfección completa al salir de la orbita de la tierra y en el regreso debe vpñver a disefectarse.
+**Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una desinfección completa al salir de la orbita de la tierra y en el regreso tambien debe volver a disenfectarse.
 
 # inconvenientes 
 
