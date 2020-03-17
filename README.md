@@ -34,7 +34,7 @@
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
 
-**Relatividad Especial** Temperatura es lo mismo que energia y masa es lo mismo que a energia. E=MC²
+**Relatividad Especial:** La temperatura es lo mismo que energia y masa es lo mismo que a energia. E=MC²
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
