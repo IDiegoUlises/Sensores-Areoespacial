@@ -40,9 +40,6 @@
 
 **Viento solar:** Es una corriente de partículas cargadas liberadas desde la atmósfera superior del Sol, llamada corona solar. Este plasma consiste principalmente en electrones, protones y partículas alfa con energías térmicas entre 1,5 y 10 keV, este puede dañar los componentes y dificultar las mediciones. 
 
-
-Construccion de mi robot que explorara un planeta como el robot Curiosity de la nasa
-
 **Sensores**
 
 * Sensor de humedad
@@ -111,7 +108,7 @@ Construccion de mi robot que explorara un planeta como el robot Curiosity de la 
 **Lanzamiento Espacial:** En la situcacion que utilize el **Motor cohete** que utiliza combustibles para el lanzamiento al espacio debe respetar las **leyes internacionales** y **leyes nacionales** de su territorio ademas debe garantizar seguridad a todas las personas durante el lanzamiento.  
 
 
-# Obtener Energia
+# Obtenecion de Energia
 
 **Energia Solar:** Obtiene la radicion emitida por una estrella esta es aprovechada con un **Colector solar** que aprovecha la temperatura producida por el sol para convertirla a energia electrica.    
 
