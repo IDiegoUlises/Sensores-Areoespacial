@@ -150,7 +150,7 @@
 
 **Unidad Disco Duro:** Esta unidad de almacenamiento funcionan en condiciones terrestres estos discos utilizan el proceso de grabacion magnetica mediante la **magnetizacion** en un proceso **mecanico** y para el proceso de grabacion interactuan con **campos magneticos** que permiten la escritura y lectura de datos, en condiciones extraterrestres es afectado por campos magneticos externos. 
 
-**Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
+**Memoria Flash:** Estas unidad de almacenamiento son memorias que estan construidas a bases de transistores que forman compuertas logicas.
 
 **Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
