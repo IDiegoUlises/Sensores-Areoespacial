@@ -152,7 +152,7 @@
 
 **Memoria Flash:** Estas unidad de almacenamiento son memorias que estan construidas a bases de transistores que forman compuertas logicas.
 
-**Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
+**Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no son borrables con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
 * **Memoria Sram:** Es un circuito con transistores que forman compuertas logicas que los valores de la compuerta son datos binarios que son la informacion almacenada en este circuito cuando es desconectado de la alimentacion todos los datos son borrados.   
 
