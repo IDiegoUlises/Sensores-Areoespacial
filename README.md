@@ -152,7 +152,10 @@
 
 **Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
 
-* **Celda de memoria Sram:** Es un tipo de memoria donde el condensador almacena datos en binarios, la carga del condensador es donde se guardada toda la informacion, esto con el fin que se desconecte de una fuente de alimentacion los datos queden guardados permanentemente, aunque la duracion de los datos permanente tiene una fecha de caducidad porque la corriente del condensador se acabara sino es realimentada durante un tiempo. 
+* **Memoria Sram:** Es un circuito con transistores que forman compuertas logicas que los valores de la compuerta son datos binarios que son la informacion almacenada en este circuito cuando es desconectado de la alimentacion todos los datos son borrados.   
+
+* **Memoria Dram:** Es un tipo de memoria donde el condensador almacena datos binarios, la carga del condensador es donde se guardada toda la informacion, esto con el fin que se desconecte de una fuente de alimentacion los datos queden guardados permanentemente, aunque la duracion de los datos permanente tiene una fecha de caducidad porque la corriente del condensador se acabara sino es realimentada durante un tiempo.
+
 
 **Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
