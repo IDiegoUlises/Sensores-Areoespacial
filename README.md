@@ -148,7 +148,7 @@
 
 # Almacenamiento De Datos
 
-**Unidad Disco Duro:** Esta unidad de almacenamiento funcionan en condiciones terrestres estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** en un proceso **mecanico** y para el proceso de grabacion interactuan con **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en condiciones extraterrestres es afectado por campos magneticos externos. 
+**Unidad Disco Duro:** Esta unidad de almacenamiento funcionan en condiciones terrestres estos discos utilizan el proceso de grabacion magnetica mediante la **magnetizacion** en un proceso **mecanico** y para el proceso de grabacion interactuan con **campos magneticos** que permiten la escritura y lectura de datos, en condiciones extraterrestres es afectado por campos magneticos externos. 
 
 **Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
 
