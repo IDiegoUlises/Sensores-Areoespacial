@@ -148,15 +148,15 @@
 
 # Almacenamiento De Datos
 
-**Unidad Disco Duro:** Utilizando esta unidad de almacenamiento es una opcion lamentablemente funcionan en condiciones terrestres estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** para el proceso de grabacion manejan **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en condiciones extraterrestres es afectado por campos magneticos externos. 
+**Unidad Disco Duro:** Esta unidad de almacenamiento funcionan en condiciones terrestres estos discos utilizan el proceso de **grabacion magnetica** mediante la **magnetizacion** en un proceso **mecanico** y para el proceso de grabacion interactuan con **campos magneticos** que permiten la escritura y lectura de datos, al utilizarlo en condiciones extraterrestres es afectado por campos magneticos externos. 
 
 **Memoria Flash:** Estas unidad de almacenamiento son memorias de alta velocidad que estan construidas a bases de transistores que forman compuertas logicas.
+
+**Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
 * **Memoria Sram:** Es un circuito con transistores que forman compuertas logicas que los valores de la compuerta son datos binarios que son la informacion almacenada en este circuito cuando es desconectado de la alimentacion todos los datos son borrados.   
 
 * **Memoria Dram:** Es un tipo de memoria donde el condensador almacena datos binarios, la carga del condensador es donde se guardada toda la informacion, esto con el fin que se desconecte de una fuente de alimentacion los datos queden guardados permanentemente, aunque la duracion de los datos permanente tiene una fecha de caducidad porque la corriente del condensador se acabara sino es realimentada durante un tiempo.
 
-
-**Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no se borran con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
 
