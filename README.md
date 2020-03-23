@@ -91,7 +91,7 @@
 
 **Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
-**Comunicacion por sonido:** Se realiza vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio elastico como un **solido,liquido y gaseoso** como en agua y aire.
+**Comunicacion por sonido:** Se producen vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio solido,liquido y gaseoso.
 
 # Propulsion Espacial
 
