@@ -99,14 +99,13 @@
 
 **Motor Ionico:** Utiliza haz de de iones con carga electrica para la propulsion utilizando un campo electrico esta propulsion es eficiente y este no necesita ningun tipo de combustible.
 
-**Motor Cohete:** Es un motor de reacion que genera un empuje mediante la expulsion de combustibles son infecientes porque la mayoria del combustible utilizado es para llevar el mismo combustible.
+**Motor Cohete:** Es un motor de reacion que genera un empuje mediante la expulsion de combustibles son ineficientes porque la mayor parte del combustible es utilizado para llevar el mismo combustible.
 
 # Medidas de Seguridad
 
-**Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrumpir lo que esta realizando, estoy con la intencion de atender una falla. 
+**Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrumpir lo que esta realizando con la intencion de atender una accion imprevista. 
 
-**Lanzamiento Espacial:** En la situcacion que utilize el **Motor cohete** que utiliza combustibles para el lanzamiento al espacio debe respetar las **leyes internacionales** y **leyes nacionales** de su territorio ademas debe garantizar seguridad a todas las personas durante el lanzamiento.  
-
+**Lanzamiento Espacial:** En la situacion que utilize el **Motor cohete** que empuja combustible para el lanzamiento debe respetar las leyes internacionales y **leyes nacionales** de su territorio debe garantizar la seguridad a todas las personas durante el lanzamiento.  
 
 # Obtenecion de Energia
 
@@ -114,37 +113,37 @@
 
 **Energia Eolica:** Esta energia se obtiene cuando el viento desplaza un **areogenerador** la cual se produce **energia cinetica** que es convertida en **energia electrica.**    
 
-**Energia Termica:** Obtiene la energia mediante el calor y el calor es producido por el movimiento de los atomos esta es equivalente a la **energia cinetica** y es aprovechada por la **Conduccion,** **Convección y** **Radiacion.**  
+**Energia Termica:** Obtiene la energia mediante la temperatura y la temperatura es producida por el movimiento por lo cual es equivalente a la energia cinetica y es aprovechada por la **Conduccion,** **Convección y** **Radiacion.**  
 
 
 # Desinfección
 
-**Desinfeccion de Objetos:** Se utilizan liquidos para destruir los microrganismos que se encuentren en un objeto tambien se aplica bajar y subir la temperatura de manera extrema para la destruccion de los microrganismos.
+**Desinfeccion de Objetos:** Se utilizan sustancias liquidas para destruir los microrganismos que se encuentren en un objeto tambien se aplica disminuir y aumentar la temperatura extremamente para la destruccion de los microrganismos.
 
-**Desifenccion de personas:** Deben desifectarse mediantes sustancias quimicas que no son dañina para humanos y dañinas para los microrganismos para su eliminacion.
+**Desifenccion de personas:** Deben desifectarse mediantes sustancias quimicas que no son dañina para humanos y que son dañinas para los microrganismos para su eliminacion.
 
-**Esterilazacion Ultravioleta:** Es un proceso que destruye toda la vida microbiana utilizando **luz ultravioleta** que es un tipo de radiacion electromagnetica no ionizante esto puede esterilizar el aire, el agua y superfices, la luz ultravioleta provoca en animales y humanos mutaciones en el ADN.   
+**Esterilazacion Ultravioleta:** Es un proceso que destruye toda la vida microbiana utilizando la luz ultravioleta que es un tipo de radiacion electromagnetica no ionizante, la luz ultravioleta provoca en animales y humanos mutaciones en el ADN.   
 
 # Corrosion de los materiales
 
-**Corrosion:** Es el deteorio de un material, este detoriodo de los materiales son generados por una reaccion electroquimica que son producida por un liquido, un gaseoso y cuando es  producida electricamente se le llama **oxidacion.**
+**Corrosion:** Es el deteorio de un material y estos son generados por una reaccion electroquimica que son producida por un liquido, un gaseoso y cuando es producida electricamente se denomina oxidacion.
 
-**Corrosion por oxigeno:** Cuando un material esta expuesto a cualquier tipo gas en este caso es el **oxigeno** se produce un deterioro del material dañandose por el tiempo que se expone.
+**Corrosion por oxigeno:** Cuando un material esta expuesto a cualquier tipo gas puede ser el oxigeno se produce un deterioro del material dañandose por el tiempo que se expone.
 
-**Corrossion Microbiológica:** Algunos microorganismos son capaces de causar corrosión en los materiales haciendo que se deteroren los materiales, esto puede ocurrrir en un liquido como en agua o en el oceano o en la superficie.
+**Corrossion Microbiologica:** Algunos microorganismos son capaces de provocar corrosion en los materiales provocando daños por el tiempo que se expone.
 
-**Corrosión Química:** Trata que material que se disuelve con un líquido corrosivo que se disuelve hasta que se consuma o el elemento corrosivo se acabe.
+**Corrosión Química:** Cuando a un material se expone a un sustancia quimica dañina para el material este se dañara por el tiempo que este expuesto.
 
-**Evitar la corrosion:** Un material para proteger se le debe agregar una capa de otro material para que evite que el material vunerable haga contacto con una sustancia corrosiva, una pared se le agrega una pintura la pintura es el material anticorrisivo.
+**Evitar la corrosion:** Un material se le debe agregar una capa de otro material para que evite que el material vunerable haga contacto con la sustancia corrosiva.
 
 # Almacenamiento De Energia
 
 * Baterias
 * Condensadores
 
-**Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esta razon un celular se demora horas en completar su carga, las celda de la baterias se deterionan por la realizacion de este proceso por eso su vida util es corta.
+**Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esto un celular se demora horas en completar su carga y las celda de la baterias se deterionan por la realizacion de este proceso.
 
-**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para luego convertilo en energia cinetica, cuando almacena el campo electrico para producir la energia los electrones se desplazan esto produce una carga electrica y un campo magnetico produce electricidad por el movimiento de los electrones. 
+**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para convertilo en energia cinetica, cuando almacena el campo electrico para ocupar esta energia los electrones se desplazan esto produce una camppo magnetico y una carga electrica.
 
 # Almacenamiento De Datos
 
@@ -154,7 +153,7 @@
 
 **Memoria EEPROM:** Esto es mismo que una memoria EPROM con la diferencia que los datos almacenados no son borrables con la luz ultravioleta utiliza la electricidad para cambiar los datos.
 
-* **Memoria Sram:** Es un circuito con transistores que forman compuertas logicas que los valores de la compuerta son datos binarios que son la informacion almacenada en este circuito cuando es desconectado de la alimentacion todos los datos son borrados.   
+* **Memoria Sram:** Es un circuito con transistores que forman compuertas logicas que los valores de la compuerta son datos binarios que son la informacion almacenada cuando es desconectado de la alimentacion todos los datos son borrados.   
 
 * **Memoria Dram:** Es un tipo de memoria donde el condensador almacena datos binarios, la carga del condensador es donde se guardada toda la informacion, esto con el fin que se desconecte de una fuente de alimentacion los datos queden guardados permanentemente, aunque la duracion de los datos permanente tiene una fecha de caducidad porque la corriente del condensador se acabara sino es realimentada durante un tiempo.
 
