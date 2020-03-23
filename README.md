@@ -1,16 +1,12 @@
-# Sensores Areoespaciales, espacial y interplanetario (really and concept)
+# Sensores Areoespaciales
 
-**Introduccion:** Mucho de los sensores que existen solo funciona en el planeta tierra, en el caso que se intente utilizar esta tecnologia en el espacio no funcionara por las condicciones fisicas, tambien un sensor en el caso que se utilize en otro planeta no funcionara porque las leyes de la fisica en el cual seran diferentes.
+**Introduccion:** Todos los sensores que existen funciona en condiciones terrestres en el caso que se lleve para condiciones fisicas diferentes estos presentaran deficiencias.
 
-**Estanderes de seguridad:** Arduino no cumple con los requisitos minimos de seguridad para su uso de areoespacial donde los cambios de temperatura son altos y bajos, los microcontroladores Pic versiones militar cumple con los estanderes areoespacial establecidos es decir para soportar la intensas cambios de temperatura areoespeciales.
+**Estanderes de seguridad:** Arduino no cumple con los requisitos de seguridad para uso de areoespacial donde los cambios de temperatura son constantes existen microcontroladores Pic que cumple con los estanderes establecidos para soportar intensos cambios de temperatura.
 
-**Estandar de componentes:** Todos los componentes que se utilizaran como transistores, condensadores y resistencias tendra que utilizar la version militar o areoespacial para aguantar las condiciones extremas del espacio.
+**Estandar de componentes:** Todos los componentes utilizados como transistores, condensadores y resistencias deben tener certificacion areoespacial.
 
-**Leyes Internacionales exploracion espacial:** Existen leyes internacionales en el cual una de la mas importante es no contaminar otros planetas con bacterias terrestre es decir que cada objeto llevado a la orbita debe estar desifenctado para no dañar otro ecosistema.
-
-**Ley de regreso de objetos al planeta tierra:** Todo material extraterrestre recoletado debe pasar estrictas medidas de reguluacion por la organizacion mundial para evitar que un virus o un microrganismo extraterrestre no se proprage en el planeta terrestre.
-
-**Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una desinfección completa al salir de la orbita de la tierra y en el regreso tambien debe volver a disenfectarse.
+**Ley internacional de Exploracion:** la ley internacional indica que legalmente no es posible contaminar otros planetas con microrganismos terrestres.
 
 # Telecomunicacion 
 
