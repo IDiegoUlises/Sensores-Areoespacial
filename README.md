@@ -2,7 +2,7 @@
 
 **Introduccion:** Todos los sensores que existen funciona en condiciones terrestres en el caso que se lleve para condiciones fisicas diferentes estos presentaran deficiencias.
 
-**Estanderes de seguridad:** Arduino no cumple con los requisitos de seguridad para uso de areoespacial donde los cambios de temperatura son constantes existen microcontroladores Pic que cumple con los estanderes establecidos para soportar intensos cambios de temperatura.
+**Estanderes de seguridad:** Arduino no cumple con los requisitos de seguridad para uso areoespacial donde los cambios de temperatura son constantes existen microcontroladores Pic que cumple con los estanderes establecidos para soportar intensos cambios de temperatura.
 
 **Estandar de componentes:** Todos los componentes utilizados como transistores, condensadores y resistencias deben tener certificacion areoespacial.
 
