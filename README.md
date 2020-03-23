@@ -16,7 +16,7 @@
 
 **Que Son las Ondas electromagneticas:** Es un campo magnetico y un campo electrico que se propagan a través del espacio transportando energía de un lugar a otro.
 
-**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** debemos enviar un foton y la frecuencia del foton es la informacion, los fotones se mueven a la velocidad de la luz.
+**Enviar Onda Electromagneticas:** Para enviar una onda en el espectro electromagnetico debemos enviar un foton y la frecuencia del foton es la informacion, los fotones se mueven a la velocidad de la luz.
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son ondas unidimensionales, ondas bidimensionales y ondas tridimensionales. 
 
@@ -89,7 +89,7 @@
 * Comunicacion por Sonido
 
 
-**Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza cualquier tipo de luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
+**Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza la luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
 **Comunicacion por sonido:** Se producen vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio solido,liquido y gaseoso.
 
@@ -103,11 +103,11 @@
 
 **Interrupcion:** Recibe una señal para indicar que el microcontrolador debe interrumpir lo que esta realizando con la intencion de atender una accion imprevista. 
 
-**Lanzamiento Espacial:** En la situacion que utilize el **Motor cohete** que empuja combustible para el lanzamiento debe respetar las leyes internacionales y **leyes nacionales** de su territorio debe garantizar la seguridad a todas las personas durante el lanzamiento.  
+**Lanzamiento Espacial:** En la situacion que utilize el **Motor cohete** que empuja combustible para el lanzamiento debe respetar las leyes nacionales de su territorio debe garantizar la seguridad a todas las personas durante el lanzamiento.  
 
 # Obtenecion de Energia
 
-**Energia Solar:** Obtiene la radicion emitida por una estrella esta es aprovechada con un **Colector solar** que aprovecha la temperatura producida por el sol para convertirla a energia electrica.    
+**Energia Solar:** Obtiene la radicion emitida por una estrella esta es aprovechada con un **colector solar** que aprovecha la temperatura producida por el sol para convertirla a energia electrica.    
 
 **Energia Eolica:** Esta energia se obtiene cuando el viento desplaza un **areogenerador** la cual se produce **energia cinetica** que es convertida en **energia electrica.**    
 
