@@ -12,6 +12,20 @@
 
 **Ley de Desinfección:** Esta ley de dice que un humano debe aplicar una desinfección completa al salir de la orbita de la tierra y en el regreso tambien debe volver a disenfectarse.
 
+# Telecomunicacion 
+
+**Espectro Electromagnetico:** Simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
+
+**Tipos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
+
+**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia de la onda del foton es la **informacion** que contiene y la energia que contiene la onda es el tipo de onda del espectro electromagnetico.
+
+**Que Son las Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple una onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
+
+**Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son ondas unidimensionales, ondas bidimensionales y ondas tridimensionales. 
+
+**Relatividad Especial:** La temperatura es lo equivalente a energia y masa es equivalente a energia.
+
 # inconvenientes 
 
 **Sensor Ultrasonico:** Este sensor utiliza ondas de sonido para medir la distancia de un objeto mediante el tiempo que se demora en llegar esta onda de sonido, en el espacio donde puede ser no puede ser utilizado este sensor porque una onda de sonido no puede desplazarse en el vacio.
@@ -23,18 +37,6 @@
 **Balanza:** Funciona con una celda de carga que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no puede funcionar en el espacio porque no existe gravedad.
 
 **Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como **Neptuno** esta temperatura no se podra desplazar porque congeleran. 
-
-**Espectro Electromagnetico:** Simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
-
-**Tipos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
-
-**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia de la onda del foton es la **informacion** que contiene y la energia que contiene la onda es el tipo de onda del espectro electromagnetico.
-
-**Que Son las Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple una onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
-
-**Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son **Ondas unidimensionales,** **Ondas bidimensionales** y **Ondas tridimensionales** 
-
-**Relatividad Especial:** La temperatura es lo mismo que energia y masa es lo mismo que a energia. E=MC²
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
