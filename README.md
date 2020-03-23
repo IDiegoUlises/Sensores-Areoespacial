@@ -14,13 +14,13 @@
 
 # Telecomunicacion 
 
-**Espectro Electromagnetico:** Simplemente es la luz visible y la luz no visible para producir luz se hace mediante radicion no ionizante que simplemente es trasladar un foton que contiene una energia a otro lugar. 
+**Espectro Electromagnetico:** Es la luz visible y la luz no visible para el ojo humano para producir esta luz se hace mediante una radicion no ionizante.
 
-**Tipos espectro electromagneticos:** Rayos uv, rayos gamas, fotones, para conocer que tipo del espectro electromagnetico simplemente se mide la temperatura que produce la onda..
+**Tipos espectro electromagneticos:** Rayos uv, rayos gamas, para conocer que el tipo del espectro electromagnetico se mide la temperatura que produce la onda.
 
-**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** simplemente debemos enviar un foton y la frecuncia de la onda del foton es la **informacion** que contiene y la energia que contiene la onda es el tipo de onda del espectro electromagnetico.
+**Que Son las Ondas electromagneticas:** Es un campo magnetico y un campo electrico que se propagan a través del espacio transportando energía de un lugar a otro.
 
-**Que Son las Ondas electromagneticas:** Para la comunicacion se debe enviar ondas electromagneticas que son simple una onda de radicion no ionizante que es simplemente es trasladar energia hacia otro punto a la velocidad de luz.
+**Enviar Onda Electromagneticas:** Para enviar una onda en el **Espectro Electromagnetico** debemos enviar un foton y la frecuencia del foton es la informacion, los fotones se mueven a la velocidad de la luz.
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son ondas unidimensionales, ondas bidimensionales y ondas tridimensionales. 
 
