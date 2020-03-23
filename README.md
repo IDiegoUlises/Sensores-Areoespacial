@@ -24,17 +24,17 @@
 
 # impedimentos 
 
-**Sensor Ultrasonico:** Este sensor utiliza ondas de sonido para medir la distancia de un objeto mediante el tiempo que se demora en llegar esta onda de sonido, en el espacio donde puede ser no puede ser utilizado este sensor porque una onda de sonido no puede desplazarse en el vacio.
+**Sensor Ultrasonico:** Este sensor utiliza ondas de sonido para medir la distancia de un objeto mediante el tiempo que se demora en llegar esta onda de sonido, en el espacio no puede ser utilizado porque una onda de sonido no puede desplazarse en el vacio.
 
-**Transistor:** Todos los circuitos estan formados por transistores un transistor llevado a un planeta de bajas temperatura como Neptuno no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida la temperara de Neptuno puede alcanzar bajas temperatura por el cual el proceso de desplazamiento de los electrones no se podran desplazar porque se congelaran. 
+**Transistor:** Un transistor llevado a un planeta de bajas temperatura como Neptuno no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida como la temperara es baja el proceso de desplazamiento de los electrones no podran desplazarse por su baja temperatura. 
 
-**Sensor Infrarrojo:** Mide la radicion electromagnetica infrarroja en el caso que sea utilizado en el espacio esta medicion puede verse afectada por factores externos como el **Viento Solar** o **Rayos Gamas** y **Explosiones Cercanas.**  
+**Sensor Infrarrojo:** Mide la radicion electromagnetica infrarroja en el caso que sea utilizado en el espacio esta medicion es afectada por factores externos como el **Viento Solar** o **Rayos Gamas** y **Explosiones Cercanas.**  
 
-**Balanza:** Funciona con una celda de carga que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no puede funcionar en el espacio porque no existe gravedad.
+**Balanza:** Funciona con una celda de carga que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funciona en el espacio porque ningun objeto puede producir gravedad.
 
-**Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como **Neptuno** esta temperatura no se podra desplazar porque se congeleran. 
+**Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como **Neptuno** esta temperatura no se podra desplazar y las ondas no llegaran. 
 
-**Cuerpos Negros:** Es un objeto o planeta que abosorbe energia ya que este objeto abosorbe la luz las comunicaciones puedes ser complicadas porque todas las comunicaciones terrestres son a base de ondas de fotones.  
+**Cuerpos Negros:** Es un objeto o planeta que abosorbe la luz para las comunicaciones pueden ser complicadas atravesar este objeto porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
 **Viento solar:** Es una corriente de particulas cargadas liberadas desde la atmosfera superior del sol, denominada corona solar, este plasma consiste principalmente en electrones, protones y particulas alfa con energias termicas entre 1,5 y 10 keV, este puede dañar los componentes electrones, dificultar las mediciones y dañar los materiales. 
 
