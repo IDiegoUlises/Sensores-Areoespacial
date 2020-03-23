@@ -6,7 +6,7 @@
 
 **Estandar de componentes:** Todos los componentes utilizados como transistores, condensadores y resistencias deben tener certificacion areoespacial.
 
-**Ley internacional de Exploracion:** la ley internacional indica que legalmente no es posible contaminar otros planetas con microrganismos terrestres.
+**Ley internacional de Exploracion:** La ley internacional indica que legalmente no es posible contaminar otros planetas con microrganismos terrestres.
 
 # Telecomunicacion 
 
