@@ -36,7 +36,7 @@
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe la luz para las comunicaciones pueden ser complicadas atravesar este objeto porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
-**Viento solar:** Es una corriente de particulas cargadas liberadas desde la atmosfera superior del sol, denominada corona solar, este plasma consiste principalmente en electrones, protones y particulas alfa con energias termicas entre 1,5 y 10 keV, este puede dañar los componentes electrones, dificultar las mediciones y dañar los materiales. 
+**Viento Solar:** Es una corriente de particulas cargadas liberadas desde la atmosfera superior del sol, denominada corona solar, este plasma consiste principalmente en electrones, protones y particulas alfa con energias termicas entre 1,5 y 10 keV, este puede dañar los componentes electrones, dificultar las mediciones y dañar los materiales. 
 
 **Sensores**
 
@@ -63,7 +63,7 @@
 **Energia**
 
 * Panel Solar
-* Baterias recargables
+* Baterias Recargables
 * Energia Nuclear
 
 
@@ -75,15 +75,15 @@
 
 **Calentamiento con Resistencia:** En caso que la tempera baja se utiliaran resistencia del material nicrom para aumentar la temperatura utilizando el **efecto joule.**
 
-**Sistema de calefaccion:** Utiliza una bomba que es una maquina termica que traslada la temperatura que se encuentra en el exterior para trasladarla al interior.
+**Sistema de Calefaccion:** Utiliza una bomba que es una maquina termica que traslada la temperatura que se encuentra en el exterior para trasladarla al interior.
 
-**Disipador de calor:** Se agrega un disipador a un circuito electronico para el disipador absorba una cantidad de la temperatura que se produce en el circuito.
+**Disipador de Calor:** Se agrega un disipador a un circuito electronico para el disipador absorba una cantidad de la temperatura que se produce en el circuito.
 
-**Pasta termica:** Es una sustancia conductora de calor que transfiere el calor de un punto hacia otro punto utilizado para componentes semiconductores que tengan dificultades en disipar el calor.   
+**Pasta Termica:** Es una sustancia conductora de calor que transfiere el calor de un punto hacia otro punto utilizado para componentes semiconductores que tengan dificultades en disipar el calor.   
 
 **Calibracion:** La mayoria de los sensores tienen que ser calibrados para cada entorno que se enfrente el sensor ultrasonico tiene que ser calibrado con la velocidad del viento que tenga el planeta en el cual se explorara.
 
-# Sistema de comunicacion
+# Sistema de Comunicacion
 
 * Comunicacion Dentro del Espectro Elecromagnetico
 * Comunicacion por Sonido
@@ -91,7 +91,7 @@
 
 **Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza la luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
-**Comunicacion por sonido:** Se producen vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio solido,liquido y gaseoso.
+**Comunicacion por Sonido:** Se producen vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio solido,liquido y gaseoso.
 
 # Propulsion Espacial
 
@@ -126,13 +126,13 @@
 
 **Corrosion:** Es el deteorio de un material y estos son generados por una reaccion electroquimica que son producida por un liquido, un gaseoso y cuando es producida electricamente se denomina oxidacion.
 
-**Corrosion por oxigeno:** Cuando un material esta expuesto a cualquier tipo gas puede ser el oxigeno se produce un deterioro del material dañandose por el tiempo que se expone.
+**Corrosion por Oxigeno:** Cuando un material esta expuesto a cualquier tipo gas puede ser el oxigeno se produce un deterioro del material dañandose por el tiempo que se expone.
 
 **Corrossion Microbiologica:** Algunos microorganismos son capaces de provocar corrosion en los materiales provocando daños por el tiempo que se expone.
 
 **Corrosión Química:** Cuando a un material se expone a un sustancia quimica dañina para el material este se dañara por el tiempo que este expuesto.
 
-**Evitar la corrosion:** Un material se le debe agregar una capa de otro material para que evite que el material vunerable haga contacto con la sustancia corrosiva.
+**Evitar la Corrosion:** Un material se le debe agregar una capa de otro material para que evite que el material vunerable haga contacto con la sustancia corrosiva.
 
 # Almacenamiento De Energia
 
