@@ -89,7 +89,7 @@
 * Comunicacion por Sonido
 
 
-**Comunicacion Dentro del Espectro Electromagnetico:** Esta comunicacion utiliza la luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
+**Comunicacion dentro del espectro electromagnetico:** Esta comunicacion utiliza la luz del espectro electromagnetico para enviar ondas electromagneticas como ondas de radio.
 
 **Comunicacion por Sonido:** Se producen vibraciones para producir una frecuencia para enviar una **onda mecanica** que se desplaza a traves de un medio solido,liquido y gaseoso.
 
