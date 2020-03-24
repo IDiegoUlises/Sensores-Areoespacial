@@ -14,13 +14,13 @@
 
 **Tipos espectro electromagneticos:** Rayos uv, rayos gamas, para conocer que el tipo del espectro electromagnetico se mide la temperatura que produce la onda.
 
-**Que Son las Ondas electromagneticas:** Es un campo magnetico y un campo electrico que se propagan a través del espacio transportando energía de un lugar a otro.
+**Que son las ondas electromagneticas:** Es un campo magnetico y un campo electrico que se propagan a través del espacio transportando energía de un lugar a otro.
 
-**Enviar Onda Electromagneticas:** Para enviar una onda en el espectro electromagnetico debemos enviar un foton y la frecuencia del foton es la informacion, los fotones se mueven a la velocidad de la luz.
+**Enviar onda electromagneticas:** Para enviar una onda en el espectro electromagnetico debemos enviar un foton y la frecuencia del foton es la informacion, los fotones se mueven a la velocidad de la luz.
 
 **Direccion de una onda:** Las ondas pueden propragarse en tres diferentes direcciones que son ondas unidimensionales, ondas bidimensionales y ondas tridimensionales. 
 
-**Relatividad Especial:** La temperatura es lo equivalente a energia y masa es equivalente a energia.
+**Relatividad especial:** La temperatura es lo equivalente a energia y masa es equivalente a energia.
 
 # impedimentos 
 
