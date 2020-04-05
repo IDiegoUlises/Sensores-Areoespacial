@@ -141,7 +141,7 @@
 
 **Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esto un celular se demora horas en completar su carga y las celda de la baterias se deterionan por la realizacion de este proceso.
 
-**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para convertilo en energia cinetica, cuando almacena el campo electrico para ocupar esta energia los electrones se desplazan esto produce una camppo magnetico y una carga electrica.
+**Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para convertilo en energia cinetica, cuando almacena el campo electrico para ocupar esta energia los electrones se desplazan esto produce una campo magnetico y una carga electrica.
 
 # Almacenamiento De Datos
 
