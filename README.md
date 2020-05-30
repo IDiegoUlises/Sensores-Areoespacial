@@ -28,11 +28,11 @@
 
 **Transistor:** Un transistor llevado a un planeta de bajas temperatura como Neptuno no funcionara porque el funcionamiento del transistor se basa recibir una corriente de entrada y devolver una corriente de salida como la temperara es baja el proceso de desplazamiento de los electrones no podran desplazarse por su baja temperatura. 
 
-**Sensor Infrarrojo:** Mide la radicion electromagnetica infrarroja en el caso que sea utilizado en el espacio esta medicion es afectada por factores externos como el **Viento Solar** o **Rayos Gamas** y **Explosiones Cercanas.**  
+**Sensor Infrarrojo:** Mide la radicion electromagnetica infrarroja en el caso que sea utilizado en el espacio esta medicion es afectada por factores externos como el viento Solar o Rayos Gamas y Explosiones Cercanas.  
 
 **Balanza:** Funciona con una celda de carga que incorpora una resistencia electrica para formar un circuito wheatstone que cambia su corriente por la deformacion de la celda para calcular la gravedad que produce un objeto, este sensor no funciona en el espacio porque ningun objeto puede producir gravedad.
 
-**Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como **Neptuno** esta temperatura no se podra desplazar y las ondas no llegaran. 
+**Bluetooth y Wifi:** Estas ondas electromagneticas trasladan temperatura a otro lugar en el caso que esta sea utilizado en un planeta con bajas temperaturas como Neptuno esta temperatura no se podra desplazar y las ondas no llegaran. 
 
 **Cuerpos Negros:** Es un objeto o planeta que abosorbe la luz para las comunicaciones pueden ser complicadas atravesar este objeto porque todas las comunicaciones terrestres son a base de ondas de fotones.  
 
