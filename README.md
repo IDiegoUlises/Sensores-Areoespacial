@@ -22,7 +22,7 @@
 
 **Relatividad especial:** La temperatura es lo equivalente a energia y masa es equivalente a energia.
 
-# impedimentos 
+# Impedimentos 
 
 **Sensor Ultrasonico:** Este sensor utiliza ondas de sonido para medir la distancia de un objeto mediante el tiempo que se demora en llegar esta onda de sonido, en el espacio no puede ser utilizado porque una onda de sonido no puede desplazarse en el vacio.
 
@@ -116,7 +116,7 @@
 
 # Desinfección
 
-**Desinfeccion de Objetos:** Se utilizan sustancias liquidas para destruir los microrganismos que se encuentren en un objeto tambien se aplica disminuir y aumentar la temperatura extremamente para la destruccion de los microrganismos.
+**Desinfeccion de Objetos:** Se utilizan sustancias liquidas para destruir los microrganismos que se encuentren en un objeto tambien se aumenta la temperatura extremamente para la destruccion de los microrganismos.
 
 **Desifenccion de personas:** Deben desifectarse mediantes sustancias quimicas que no son dañina para humanos y que son dañinas para los microrganismos para su eliminacion.
 
@@ -138,10 +138,13 @@
 
 * Baterias
 * Condensadores
+* Bobinas
 
 **Baterias:** Es un acumulador de energia que convierte la energia electrica a energia quimica y para la utilizacion la energia quimica almacenada se convierte a energia electrica por esto un celular se demora horas en completar su carga y las celda de la baterias se deterionan por la realizacion de este proceso.
 
 **Condensador:** Este conductor **no almacena energia** este almacena un **campo electrico** para convertilo en energia cinetica, cuando almacena el campo electrico para ocupar esta energia los electrones se desplazan esto produce una campo magnetico y una carga electrica.
+
+**Bobina:** Es un componente pasivo de un circuito electrico que debido al fenomeno de la **autoinduccion** almacena energia de forma de campo magnetico.
 
 # Almacenamiento De Datos
 
