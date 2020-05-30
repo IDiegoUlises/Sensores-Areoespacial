@@ -111,7 +111,7 @@
 
 **Energia Eolica:** Esta energia se obtiene cuando el viento desplaza un **areogenerador** la cual se produce **energia cinetica** que es convertida en **energia electrica.**    
 
-**Energia Termica:** Obtiene la energia mediante la temperatura y la temperatura es producida por el movimiento por lo cual es equivalente a la energia cinetica y es aprovechada por la **Conduccion,** **Convección y** **Radiacion.**  
+**Energia Termica:** Obtiene la energia mediante la temperatura y la temperatura es producida por el movimiento por lo cual es equivalente a la energia cinetica y es aprovechada por la **conduccion,** **convección y** **radiacion.**  
 
 
 # Desinfección
